@@ -14,11 +14,19 @@ Repository: https://github.com/mohammed45a/workday-scheduler
 ## Credits
 
 Youtube vids!
+
 https://www.w3schools.com/js/default.asp
-https://stackoverflow.com/questions/59642012/increment-localstorage-object-name-to-store-data-from-inputs
+
+https://stackoverflow.com/questions/59642012/
+
+increment-localstorage-object-name-to-store-data-from-inputs
+
 https://www.w3schools.com/jquery/default.asp
+
 https://github.com/jfisher396/workday-scheduler
+
 https://www.sitepoint.com/managing-dates-times-using-moment-js/#:~:text=moment().,and%20a%20two%2Ddigit%20day.
+
 EdX starter code for API module
 
 
